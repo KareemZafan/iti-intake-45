@@ -26,4 +26,5 @@ def test_square_root_functionality():
   assert sqrt(625) == 25
   assert sqrt(0) == 0
   assert sqrt(100) == 10
+  assert sqrt(400) == 20
   
